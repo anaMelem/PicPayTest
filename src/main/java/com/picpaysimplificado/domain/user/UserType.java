@@ -1,4 +1,4 @@
-package com.picpaysimplificado.user;
+package com.picpaysimplificado.domain.user;
 
 public enum UserType {
 

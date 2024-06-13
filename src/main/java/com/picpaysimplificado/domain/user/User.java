@@ -1,11 +1,10 @@
-package com.picpaysimplificado.user;
+package com.picpaysimplificado.domain.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.javapoet.ClassName;
 
 import java.math.BigDecimal;
 
